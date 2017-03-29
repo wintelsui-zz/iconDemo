@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "64419478FB67F298926C5E47FC13C7416D7E0B68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "914A9A2D63957B49BD7FF4C696ADD6A8DBC18DAF" : 9223372036854775807,
+    "64419478FB67F298926C5E47FC13C7416D7E0B68" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "51790B6A-7C8C-45E4-9B16-19ABB673AB5D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "914A9A2D63957B49BD7FF4C696ADD6A8DBC18DAF" : "iOS103iconDemo\/iconDemo\/",
+    "64419478FB67F298926C5E47FC13C7416D7E0B68" : "iOS103iconDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iconDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iconDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wintelsui\/iOS103iconDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "64419478FB67F298926C5E47FC13C7416D7E0B68"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wintelsui\/iconDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "914A9A2D63957B49BD7FF4C696ADD6A8DBC18DAF"
+    }
+  ]
+}
